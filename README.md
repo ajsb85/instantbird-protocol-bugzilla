@@ -10,7 +10,8 @@ https://bugsnag.com/docs/notification-plugins <br>
 https://mrcote.info/blog/2014/04/04/bugzfeed-bugzilla-push-notifications/ <br>
 https://wiki.mozilla.org/Auto-tools/Projects/Pulse/Exchanges <br>
 https://wiki.mozilla.org/BMO/ChangeNotificationSystem <br>
-https://github.com/mozilla/bugzfeed
+https://github.com/mozilla/bugzfeed <br>
+http://people.mozilla.org/~mcote/bugzfeed_example/
 
 ## Examples of native REST API use
 public data
