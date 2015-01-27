@@ -2,9 +2,15 @@
 Assists to setup a chat account for Bugzilla
 
 
-http://www.bugzilla.org/
-https://wiki.mozilla.org/Bugzilla:REST_API
-http://bugzilla.readthedocs.org/en/latest/api/index.html
+http://www.bugzilla.org/ <br>
+https://wiki.mozilla.org/Bugzilla:REST_API <br>
+http://bugzilla.readthedocs.org/en/latest/api/index.html <br>
+https://wiki.mozilla.org/BMO/ChangeNotificationSystem#Commands<br>
+https://bugsnag.com/docs/notification-plugins <br>
+https://mrcote.info/blog/2014/04/04/bugzfeed-bugzilla-push-notifications/ <br>
+https://wiki.mozilla.org/Auto-tools/Projects/Pulse/Exchanges <br>
+https://wiki.mozilla.org/BMO/ChangeNotificationSystem <br>
+https://github.com/mozilla/bugzfeed
 
 ## Examples of native REST API use
 public data
