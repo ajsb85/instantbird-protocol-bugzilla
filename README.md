@@ -65,3 +65,7 @@ https://bugzilla.mozilla.org/rest/user?names=lhenry@mozilla.com
 Client example:
 
 https://www.bzdeck.com/
+
+Generate an API Key:
+
+https://bugzilla.mozilla.org/userprefs.cgi?tab=apikey
