@@ -61,3 +61,7 @@ https://bugzilla.mozilla.org/rest/product/core?component=DOM
 Get data for a user
 
 https://bugzilla.mozilla.org/rest/user?names=lhenry@mozilla.com 
+
+Client example:
+
+https://www.bzdeck.com/
